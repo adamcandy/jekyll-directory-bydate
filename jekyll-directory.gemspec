@@ -2,8 +2,8 @@
 # stub: jekyll-directory 0.1.1 ruby lib
 Gem::Specification.new do |s|
   s.name        = 'jekyll-directory'
-  s.version     = '0.1.2'
-  s.date        = '2017-11-03'
+  s.version     = '0.1.4'
+  s.date        = '2018-03-27'
   s.summary     = "Directory listing"
   s.description = "Directory listing in a gem from: git:sillylogger/jekyll-directory"
   s.authors     = ["Adam Candy", "Tommy Sullivan"]
