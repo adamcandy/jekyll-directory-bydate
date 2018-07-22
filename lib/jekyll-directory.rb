@@ -1,5 +1,5 @@
 # Title: Dynamic directories for Jekyll
-# Author: Tommy Sullivan http://superawesometommy.com, Robert Park http://exolucere.ca
+# Author: Tommy Sullivan http://superawesometommy.com, Robert Park http://exolucere.ca, Adam Candy http://candylab.org
 # Description: The directory tag lets you iterate over files at a particular path. If files conform to the standard Jekyll format, YYYY-MM-DD-file-title, then those attributes will be populated on the yielded file object. The `forloop` object maintains [its usual context](http://wiki.shopify.com/UsingLiquid#For_loops).
 #
 # Syntax:
@@ -16,7 +16,7 @@
 #
 # - `reverse` - Defaults to 'false', ordering files the same way `ls` does: 0-9A-Za-z.
 # - `exclude` - Defaults to '.html$', a Regexp of files to skip.
-# - `bydate'  - Sorts by date
+# - `bydate'  - Sorts by date. Adding also 'reverse' switches the order.
 #
 # File Attributes:
 #
